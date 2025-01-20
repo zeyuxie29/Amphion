@@ -16,7 +16,7 @@ Or you can use the *"inference.py"* script provided by website [Huggingface Infe
 Huggingface Online Inference uses Gemini as a preprocessor, and we also provide a GPT preprocessing script consistent with the paper in *"llm_preprocess.py"*
 
 ## Simulated Dataset
-Simulated data can be downloaded from (1) [HuggingfaceDataset](https://huggingface.co/datasets/ZeyuXie/PicoAudio/tree/main) or (2) [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
+Simulated data can be downloaded from (1) [HuggingfaceDataset](https://huggingface.co/datasets/amphion/PicoAudio/tree/main) or (2) [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
 The metadata is stored in *"data/meta_data/{}.json"*, one instance is as follows:
 ```python
 {
